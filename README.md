@@ -2,18 +2,18 @@
 
 Project developed with Django to register blog posts.
 
-## 🚀 Index
-- ⚙ [Technologies](#-technologies)
-- 💻 [How to run](#-how-to-run)
+## 📌 Index
+- 💻 [Technologies](#-technologies)
+- 🚀 [How to run](#-how-to-run)
 
 ---
 
-## ⚙ Technologies
+## 💻 Technologies
     - Bootstrap    
     - Python
 ---
 
-## 💻 How to run
+## 🚀 How to run
 
   > Cloning the repository
   ```bash
